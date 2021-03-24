@@ -1,6 +1,6 @@
-# tesis_maestria_2020
+﻿# tesis_maestria_2020
 
-# tesismaestria de Gerardo Herrera, en la UPS Quito, con la tutora Paulina Morillo
+# tesismaestria de Gerardo Herrera R., en la UPS Quito, con la tutora Paulina Morillo A.
 Tesis de maestria en electrónica y automatización,  sobre una predicción de fallas temprana usando aprendizaje supervisado en un sistema de suministro de agua en una ciudad de Asia.
 
 # En la carpeta evidencias: se encuentran los notebook jupiter, version html y pdf de los diferentes algoritmos (rf, svm y ann) con sus diferentes ajustes, tanto para google colab, como para kaggle.
